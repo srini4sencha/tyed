@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2025-05-18",
+    "title": "My First Blog",
+    "content": "# Hello World\nThis is my first blog post written in **Markdown**!"
+  },
+  {
+    "date": "2025-05-17",
+    "title": "Another Post",
+    "content": "React is awesome! \n\n- Uses CDN\n- Easy to setup"
+  }
+]
